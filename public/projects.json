@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "title": "Website Redesign",
+    "description": "Redesign our corporate website to improve user experience and modernize the look.",
+    "explanation": "website Redesign is a process of redesigning the website to improve the user experience and modernize the look. It involves updating the design, layout, and content of the website to make it more visually appealing and user-friendly. Website redesign can help improve the overall performance of the website, increase traffic, and generate more leads and sales.",
+    "budget": 3000,
+    "category": "Website Design",
+    "type": "Fixed Price",
+    "skills": ["Website Design", "HTML","Article Writing"]
+  },
+  {
+    "id": 2,
+    "title": "Mobile App Development",
+    "description": "Develop a mobile application for our e-commerce platform.",
+    "explanation": "Mobile app development is the process of creating software applications that run on mobile devices, such as smartphones and tablets. These applications can be pre-installed on the device, downloaded from a mobile app store, or accessed via a web browser. Mobile app development can involve creating standalone applications, mobile websites, or responsive web applications that work on a variety of devices. Mobile app development can help businesses reach a wider audience, improve customer engagement, and increase revenue.",
+    "budget": 15000,
+    "category": "Mobile App Development",
+    "type": "Fixed Price",
+    "skills": ["Mobile App Development", "React Native", "JavaScript"]
+  },
+  {
+    "id": 3,
+    "title": "Logo Design",
+    "description": "Create a new logo for our brand that is modern and eye-catching.",
+    "explanation": "Logo design is the process of creating a visual identity for a brand or company. A logo is a symbol or graphic mark that represents a business and helps to establish its identity in the market. Logo design can involve creating a new logo from scratch, updating an existing logo, or rebranding a company with a new logo design. A well-designed logo can help businesses stand out from the competition, attract customers, and build brand recognition.",
+    "budget": 500,
+    "category": "Logo Design",
+    "type": "Fixed Price",
+    "skills": ["Logo Design", "Graphic Design"]
+  },
+  {
+    "id": 4,
+    "title": "Data Entry Project",
+    "description": "Enter data from scanned documents into our database.",
+    "explanation":"Data entry is the process of entering data from one format into another, such as entering information from a paper document into a computer database. Data entry projects can involve entering text, numbers, or other information into a spreadsheet, database, or other software application. Data entry projects can help businesses organize and manage their data more efficiently, improve data accuracy, and save time and money.",
+    "budget": 1000,
+    "category": "Data Entry",
+    "type": "Hourly Rate",
+    "hourlyRate": 20,
+    "skills": ["Data Entry", "Marketing", "Attention to Detail"]
+  },
+  {
+    "id": 5,
+    "title": "SEO Optimization",
+    "description": "Optimize our website for search engines to improve visibility and ranking.",
+    "explanation":"SEO optimization is the process of improving a website's visibility and ranking in search engine results pages (SERPs). This involves optimizing the website's content, structure, and performance to make it more search engine-friendly and improve its chances of ranking higher in search results. SEO optimization can help businesses attract more organic traffic, increase brand awareness, and generate more leads and sales.",
+    "budget": 2000,
+    "category": "Website Design",
+    "type": "Fixed Price",
+    "skills": ["SEO", "Marketing", "Website Design"]
+  },
+  {
+    "id": 6,
+    "title": "Article Writing",
+    "description": "Write articles for our blog on various industry topics.",
+    "explanation":"Article writing is the process of creating written content for websites, blogs, magazines, or other publications. Articles can cover a wide range of topics, from news and current events to industry trends and product reviews. Article writing can help businesses attract and engage their target audience, establish thought leadership, and drive traffic to their website. Article writing can also help improve a website's search engine ranking and visibility.",
+    "budget": 1200,
+    "category": "Article Writing",
+    "type": "Fixed Price",
+    "skills": ["Article Writing", "Research", "SEO"]
+  },
+  {
+    "id": 7,
+    "title": "Software Development",
+    "description": "Develop a custom software solution for our business needs.",
+    "explanation": "Software development is the process of creating software applications that meet specific business requirements. This can involve developing new software from scratch, customizing existing software, or integrating multiple software systems to work together. Software development can help businesses automate processes, improve efficiency, and enhance customer experience. Software development can also help businesses stay competitive in the market and adapt to changing business needs.",
+    "budget": 25000,
+    "category": "Software Development",
+    "type": "Fixed Price",
+    "skills": ["Software Development", "Java", "Spring Boot"]
+  },
+  {
+    "id": 8,
+    "title": "Social Media Marketing",
+    "description": "Manage and grow our social media presence across various platforms.",
+    "explanation": "Social Media Marketing is the process of promoting a product or service through social media platforms like Facebook, Twitter, Instagram, and LinkedIn. Social media marketing can help businesses reach a wider audience, engage with customers, and build brand awareness. Social media marketing can involve creating and sharing content, running ads, and engaging with followers to drive traffic and generate leads. Social media marketing can also help businesses monitor and analyze their social media performance to improve their marketing strategy.",
+    "budget": 1500,
+    "category": "Marketing",
+    "type": "Hourly Rate",
+    "hourlyRate": 30,
+    "skills": ["Marketing", "Social Media", "Content Creation"]
+  },
+  {
+    "id": 9,
+    "title": "E-commerce Website Development",
+    "description": "Develop a new e-commerce website with integrated payment systems.",
+    "explanation": "Building an E-commerce website is the process of creating an online store to sell products or services over the internet. E-commerce websites can help businesses reach a wider audience, increase sales, and improve customer experience. E-commerce website development can involve designing the website, setting up product pages, integrating payment systems, and optimizing the website for search engines. E-commerce website development can help businesses establish an online presence, attract customers, and generate revenue.",
+    "budget": 10000,
+    "category": "Website Design",
+    "type": "Fixed Price",
+    "skills": ["Website Design", "E-commerce", "Payment Gateway Integration"]
+  },
+  {
+    "id": 10,
+    "title": "Graphic Design for Marketing Materials",
+    "description": "Create visually appealing marketing materials for our upcoming campaign.",
+    "explanation": "Graphic design is the process of creating visual content to communicate messages and ideas. Graphic design can involve creating logos, brochures, posters, banners, and other marketing materials to promote a product or service. Graphic design can help businesses attract and engage customers, build brand recognition, and drive sales. Graphic design can also help businesses stand out from the competition and create a memorable brand image.",
+    "budget": 800,
+    "category": "Graphic Design",
+    "type": "Fixed Price",
+    "skills": ["Graphic Design", "Adobe Photoshop", "Adobe Illustrator"]
+  }
+]

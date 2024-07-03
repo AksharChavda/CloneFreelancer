@@ -1,0 +1,95 @@
+/* src/ProjectList.css */
+
+
+/* add custom scrollbar  */
+
+.grouping{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.project-list-container {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto ;
+  padding-top: 200px;
+  font-family: Arial, sans-serif;
+  /* overflow-y: hidden; */
+  
+}
+.h1list{
+  font-size: 3rem;
+  margin-bottom: 20px;
+
+}
+.project-list {
+  flex-grow: 1;
+}
+
+.project-item {
+  list-style: none;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.project-item h2 {
+  font-size: 2rem;
+  margin: 0 0 10px;
+}
+
+.project-item p {
+  font-size: 15px;
+  margin: 5px 0;
+  color: #000;
+}
+
+.project-item .budget {
+  font-size: medium;
+  font-weight: 600;
+  color:green;
+}
+
+.project-item .category, .project-item .hourly-rate, .project-item .skills {
+  /* background-color: #f4f4f4; */
+  /* padding: 5px 10px; */
+  border-radius: 3px;
+  display: inline-block;
+  font-size: 1.5rem;
+  margin-top: 10px;
+  animation: animate .8s linear infinite;
+}
+
+@keyframes animate {
+  0% {
+    background-color: #f4f4f4;
+  }
+  50% {
+    color: blue;
+  }
+  100% {
+    color: blue;
+  }
+}
+
+@media screen and (max-width: 768px){
+
+  .project-item p {
+    font-size: 1.5rem;
+  }
+  .project-item h2 {
+    font-size: 2rem;
+  }
+  .project-item .budget {
+    font-size: 1.7rem;
+
+  }
+  .project-item .category, .project-item .hourly-rate, .project-item .skills {
+    font-size: 1.5rem;
+  }
+
+}
